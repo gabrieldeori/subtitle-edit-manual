@@ -1,11 +1,12 @@
-# subtitle-edit-manual
+# Manual Subtitle Edit - PTBR
 Um pequeno manual de como usar o subtitle edit
 
+## 1. Instalação
+  - [Windows](./instalacao/Windows/README.md)
+  - Mac (Ainda não escrito)
+  - Linux (Ainda não escrito)
 
-## Instalação
-O link para baixar a aplicação mais atualizada é no GitHub.
-Você deve acessar este [link](https://github.com/SubtitleEdit/subtitleedit/releases) e após isso proceder com esse tutorial de acordo com o sistema operacional que deseja.
+## 2. Configuração (Ainda não escrito)
 
-
-### Windows
-Se estiver instalando no Windows, proceda como abaixo:
+## X. Documentação Oficial:
+  - https://www.nikse.dk/
