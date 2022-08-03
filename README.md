@@ -6,8 +6,8 @@ Um pequeno manual de como usar o subtitle edit
   - Mac (Ainda não escrito)
   - Linux (Ainda não escrito)
 
-## 2. Configuração (Ainda não escrito)
-  - Exemplo de configuração Amazon Prime
+## 2. Configuração
+  - [Exemplo de configuração Amazon Prime](./configuracao/README.md)
 
 ## 3. Atualizando para nova versão
 
