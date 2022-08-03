@@ -5,6 +5,8 @@ Essa parte do manual engloba o procedimento para a instalação do programa no a
 ## Download
 Se estiver instalando no Windows, primeiro você deve procurar [nesse link](https://github.com/SubtitleEdit/subtitleedit/releases) informado, a versão mais recente, no momento que estou escrevendo esse manual a versão mais recente é a 3.6.6, observe a imagem abaixo e veja como proceder para baixar a versão Setup:
 
+##### Nota: Não indico baixar versões BETA
+
 ![Imagem demonstrando versão setup mais recente](../../src/images/instalacao/windows/0-download_recente.png)
 
 Um arquivo com o nome de `SubtitleEdit-3.6.6-Setup.zip` será baixado, basta o abrir com o um programa de compactação como 7zip, Winrar ou o de sua preferência e extrair na pasta que desejar, no caso eu extraí na área de trabalho.
