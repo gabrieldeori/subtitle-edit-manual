@@ -3,7 +3,7 @@ Essa parte do manual engloba o procedimento para a instalação do programa no a
 
 
 ## Download
-Se estiver instalando no Windows, primeiro você deve procurar no [link](https://github.com/SubtitleEdit/subtitleedit/releases) informado, a versão mais recente, no momento que estou escrevendo esse manual a versão mais recente é a 3.6.6, clique no link marcado na imagem para baixar a versão Setup:
+Se estiver instalando no Windows, primeiro você deve procurar [nesse link](https://github.com/SubtitleEdit/subtitleedit/releases) informado, a versão mais recente, no momento que estou escrevendo esse manual a versão mais recente é a 3.6.6, observe a imagem abaixo e veja como proceder para baixar a versão Setup:
 
 ![Imagem demonstrando versão setup mais recente](../../src/images/instalacao/windows/0-download_recente.png)
 

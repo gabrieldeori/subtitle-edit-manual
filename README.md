@@ -7,6 +7,9 @@ Um pequeno manual de como usar o subtitle edit
   - Linux (Ainda não escrito)
 
 ## 2. Configuração (Ainda não escrito)
+  - Exemplo de configuração Amazon Prime
+
+## 3. Atualizando para nova versão
 
 ## X. Documentação Oficial:
   - https://www.nikse.dk/
