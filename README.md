@@ -9,12 +9,14 @@ Um pequeno manual de como usar o subtitle edit
 ## 2. Configuração
   - [Exemplo de configuração Amazon Prime](./configuracao/README.md)
 
-## 3. Atualizando para nova versão (Ainda não descrito)
+## 3. Atualizando para nova versão
+  - 
 
 ## 4. Operação
   - [Manual de operação Subtitle Edit](./operacao/README.md)
 
-## 5. Boas práticas (Ainda não descrito)
+## 5. Boas práticas
+- [Manual de boas práticas](./boas_praticas/README.md)
 
 ## 6. Documentação Oficial:
   - https://www.nikse.dk/
