@@ -13,7 +13,7 @@ Um pequeno manual de como usar o subtitle edit
   - [Manual de atualização](./atualizando/README.md)
 
 ## 4. Operação
-  - [Manual de operação Subtitle Edit](./operacao/README.md)
+  - [Manual de operação](./operacao/README.md)
 
 ## 5. Boas práticas
 - [Manual de boas práticas](./boas_praticas/README.md)
